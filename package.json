@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fandopg/portfolio.git"
+  },
+  "author": "Fernando Padilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fandopg/portfolio/issues"
+  },
+  "homepage": "https://github.com/fandopg/portfolio#readme",
+  "dependencies": {
+    "eins-modal": "^2.2.2",
+    "normalize.css": "^8.0.1"
+  }
+}
